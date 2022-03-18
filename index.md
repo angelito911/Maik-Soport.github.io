@@ -4,9 +4,9 @@
 
 Sitio oficial para el soporte de mantenimiento a distancia con una buena atencion a los clientes con tecnicos especialisados en la materia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui encontraras respuesta inmediata para resolver los problemas que tengga usted en proceso
 
-### Markdown
+### Te ofrecemos el mejor servicio para tu equipo de computo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
