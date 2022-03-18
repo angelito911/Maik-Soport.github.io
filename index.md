@@ -2,7 +2,7 @@
 
 ## Bienvenidos a Maik Soport
 
-You can use the [editor on GitHub](https://github.com/Maik-Soport/Maik-Soport.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sitio oficial para el soporte de mantenimiento a distancia con una buena atencion a los clientes con tecnicos especialisados en la materia
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
