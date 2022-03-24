@@ -2,8 +2,8 @@
 
 # Te Ofrecemos Los Siguientes Servicios #
 
-## Mantenimiento A Distancia
-## Mantenimiento Presencial
+## Soporte A Distancia
+## Soporte Presencial
 ## Mantenimiento Correctivo 
 ## Mantenimiento Preventivo 
 
