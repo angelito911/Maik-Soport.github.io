@@ -21,11 +21,12 @@
 </form>
 <form action="/action_page.php">
   <label for="birthday">Fecha De Servicio:</label>
+<br>
   <input type="date" id="birthday" name="birthday">
   <input type="submit" value="Submit">
 </form>
 <form action="/action_page.php" method="get">
-  <label for="vol">Volume (Calificacion 0 and 10):</label>
+  <label for="vol"> (Calificacion 0 and 10):</label>
   <input type="range" id="vol" name="vol" min="0" max="50">
   <input type="submit" value="Submit">
 </form>
