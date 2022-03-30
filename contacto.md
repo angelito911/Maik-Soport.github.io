@@ -4,9 +4,15 @@
 ##Redes Sociales##
 
 <form action="https://formspree.io/f/moqrndyv" method="post">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
+
+<label for="fname">Nombre:</label><br>
+<label for="lname">Apellido:</label><br>
+<label for="phone">Numero de Telefono:</label><br><br>  
+ E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
+ <label for="birthday">Fecha De Servicio:br>
+</label>(Calificacion 0 and 10):</label>  
+ 
 
 
