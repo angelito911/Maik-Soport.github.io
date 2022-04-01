@@ -3,21 +3,18 @@
 
 ##Redes Sociales##
 
-<form action="https://formspree.io/f/moqrndyv" method="post">
-
-<label for="fname">Nombre:</label><br>
-  <input type="text" id="fname" name="fname"><br>
+<form action="https://formspree.io/f/xqkndqno" method="post">
+NOMBRE: <input type="text" name="name"><br>
   
-  <label for="lname">Apellido:</label><br>
+APELLIDO: <input type="text" apellido="name"><br>
   
- 
- E-mail: <input type="text" name="email"><br>
+E-mail: <input type="text" name="email"><br>
+  
+telefono: <input type="tel">
+  
+FELLAS DE SERVICIOS: <input type="datetime-local">
+  
+CALIFICAION DE SERVISIO: <input type="range">
 
-Telefono:<input type="tel">
- 
- <input type="datetime-local">
- 
- <input type="range">
- 
- <input type="submit">
- </form>
+<input type="submit">
+</form>
